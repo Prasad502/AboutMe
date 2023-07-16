@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.442992f1.css",
+    "main.js": "/static/js/main.4b906f61.js",
+    "static/media/Prasad_Labade_CV.pdf": "/static/media/Prasad_Labade_CV.1b1e59a07b4069850739.pdf",
+    "static/media/projectTwo.png": "/static/media/projectTwo.167ec55f3b7dbe2a527d.png",
+    "static/media/projectOne.png": "/static/media/projectOne.f0edff168f4ab9d8dd6d.png",
+    "static/media/bannerImg.png": "/static/media/bannerImg.07810b645b100d04f426.png",
+    "static/media/projectFour.png": "/static/media/projectFour.490a80b096d2858e52e4.png",
+    "static/media/projectThree.jpg": "/static/media/projectThree.4f29a13922134b297386.jpg",
+    "static/media/projectSix.png": "/static/media/projectSix.3e9ef33c16f3f750aaef.png",
+    "static/media/contactImg.png": "/static/media/contactImg.8ddfbfd11798f881db54.png",
+    "index.html": "/index.html",
+    "main.442992f1.css.map": "/static/css/main.442992f1.css.map",
+    "main.4b906f61.js.map": "/static/js/main.4b906f61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.442992f1.css",
+    "static/js/main.4b906f61.js"
+  ]
+}
